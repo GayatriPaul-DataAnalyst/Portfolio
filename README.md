@@ -24,11 +24,8 @@ Click here to access [Tableau Story](https://public.tableau.com/app/profile/gaya
 
 <img src="https://github.com/GayatriPaul-DataAnalyst/Portfolio/blob/main/Tableau.png" width="750" height="500">
 
-Here is the complete [R code](https://github.com/GayatriPaul-DataAnalyst/Portfolio/blob/main/R%20Code%20for%20Cyclistic%20Data%20Analysis)
 
-Here is the [markdown](https://github.com/GayatriPaul-DataAnalyst/Portfolio/blob/main/Cyclistic%20Data%20Analysis%20-%20Yearly%20Overview.pdf) file for the entire code.
-
-Here are R markdown files divided as per the steps I followed:
+As the files are too large, I have divided them as per the steps I followed ! Here are R markdown files :
 
 [Business Problem & Data Preparation](https://github.com/GayatriPaul-DataAnalyst/Portfolio/blob/main/Cyclistic%20Data%20Analysis%20-%20Business%20Problem.pdf)
 
@@ -37,3 +34,7 @@ Here are R markdown files divided as per the steps I followed:
 [Analysis](https://github.com/GayatriPaul-DataAnalyst/Portfolio/blob/main/Cyclistic%20Data%20Analysis%20-%20Analysis.pdf)
 
 [Insights & Recommendations](https://github.com/GayatriPaul-DataAnalyst/Portfolio/blob/main/Cyclistic%20Data%20Analysis%20-%20Findings%20and%20Recommendations.pdf)
+
+Here is the complete [R code](https://github.com/GayatriPaul-DataAnalyst/Portfolio/blob/main/R%20Code%20for%20Cyclistic%20Data%20Analysis)
+
+Here is the [markdown](https://github.com/GayatriPaul-DataAnalyst/Portfolio/blob/main/Cyclistic%20Data%20Analysis%20-%20Yearly%20Overview.pdf) file for the entire code.
