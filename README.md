@@ -8,6 +8,9 @@ This is the case study from Google Analytics Capstone Project.
 
 Cyclistic- a fictional bike sharing company in Chicago, is interested in converting non-member users into annual members. My goal here is to find out key differences between the two groups and share recommendations based on the analysis.
 
+Here is the detailed [Business Problem](https://github.com/GayatriPaul-DataAnalyst/Portfolio/blob/main/Cyclistic%20Data%20Analysis%20-%20Business%20Problem.pdf)
+
+
 ### Data Source & License:
 
 The data-sets have been collected from following website:
