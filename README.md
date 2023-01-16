@@ -1,6 +1,6 @@
 # Portfolio Projects:
 
-Connect with me on [Linkedin](www.linkedin.com/in/gayatripaul)
+Connect with me on [Linkedin](https://www.linkedin.com/in/gayatripaul)
 
 Here are a few projects I worked on. I have used R studio, python, Tableau and MS Excel.
 
