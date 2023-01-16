@@ -2,8 +2,6 @@
 
 Connect with me on [Linkedin](https://www.linkedin.com/in/gayatripaul)
 
-Here are a few projects I worked on. I have used R studio, python, Tableau and MS Excel.
-
 # Project 1: Cyclistic Bike Share Analysis
 
 This is the case study from Google Analytics Capstone Project.
