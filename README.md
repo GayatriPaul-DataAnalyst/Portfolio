@@ -22,7 +22,6 @@ The data has been made available by Motivate International Inc. under this licen
 
 Click here to access [Tableau Story](https://public.tableau.com/app/profile/gayatri.paul/viz/Cyclistic_Dashboard_16733809243250/Story1).
 
-![k](https://github.com/GayatriPaul-DataAnalyst/Portfolio/blob/main/Tableau.png)
 <img src="https://github.com/GayatriPaul-DataAnalyst/Portfolio/blob/main/Tableau.png" width="750" height="500">
 
 Here is the complete [R code](https://github.com/GayatriPaul-DataAnalyst/Portfolio/blob/main/R%20Code%20for%20Cyclistic%20Data%20Analysis)
