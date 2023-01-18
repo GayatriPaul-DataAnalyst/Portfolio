@@ -23,7 +23,7 @@ The data has been made available by Motivate International Inc. under this licen
 
 #### I have used the data from October 2021 to October 2022 for analysis.
 
-- [X] ## Tableau :
+## - [X] Tableau :
 
 Click here to access [Tableau Story](https://public.tableau.com/app/profile/gayatri.paul/viz/Cyclistic_Dashboard_16733809243250/Story1).
 
