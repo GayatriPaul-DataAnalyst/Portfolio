@@ -42,13 +42,14 @@ Libraries:
 #### As the files are too large, I have divided them as per the steps I followed ! 
 #### Here are R markdown files :
 
-[Business Problem & Data Preparation](https://github.com/GayatriPaul-DataAnalyst/Portfolio/blob/main/Cyclistic%20Data%20Analysis%20-%20Business%20Problem.pdf)
+:white_check_mark: [Business Problem & Data Preparation](https://github.com/GayatriPaul-DataAnalyst/Portfolio/blob/main/Cyclistic%20Data%20Analysis%20-%20Business%20Problem.pdf)
 
-[Data Pre-Processing](https://github.com/GayatriPaul-DataAnalyst/Portfolio/blob/main/Cyclistic%20Data%20Analysis%20-%20Data%20Processing.pdf)
+:white_check_mark: [Data Pre-Processing](https://github.com/GayatriPaul-DataAnalyst/Portfolio/blob/main/Cyclistic%20Data%20Analysis%20-%20Data%20Processing.pdf)
 
-[Analysis](https://github.com/GayatriPaul-DataAnalyst/Portfolio/blob/main/Cyclistic%20Data%20Analysis%20-%20Analysis.pdf)
+:white_check_mark: [Analysis](https://github.com/GayatriPaul-DataAnalyst/Portfolio/blob/main/Cyclistic%20Data%20Analysis%20-%20Analysis.pdf)
 
-[Insights & Recommendations](https://github.com/GayatriPaul-DataAnalyst/Portfolio/blob/main/Cyclistic%20Data%20Analysis%20-%20Findings%20and%20Recommendations.pdf)
+:white_check_mark: [Insights & Recommendations](https://github.com/GayatriPaul-DataAnalyst/Portfolio/blob/main/Cyclistic%20Data%20Analysis%20-%20Findings%20and%20Recommendations.pdf)
+
 
 Here is the complete [R code](https://github.com/GayatriPaul-DataAnalyst/Portfolio/blob/main/R%20Code%20for%20Cyclistic%20Data%20Analysis)
 
