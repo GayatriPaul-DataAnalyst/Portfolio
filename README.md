@@ -31,6 +31,13 @@ Click here to access [Tableau Story](https://public.tableau.com/app/profile/gaya
 
 ## R Studio
 
+Libraries:
+dplyr
+lubridate
+tidyverse
+tidyr
+ggplot2
+
 #### As the files are too large, I have divided them as per the steps I followed ! 
 #### Here are R markdown files :
 
