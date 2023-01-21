@@ -10,19 +10,6 @@ Cyclistic- a fictional bike sharing company in Chicago, is interested in convert
 
 Here is the detailed [Business Problem](https://github.com/GayatriPaul-DataAnalyst/Portfolio/blob/main/Cyclistic%20Data%20Analysis%20-%20Business%20Problem.pdf)
 
-
-### Data Source & License:
-
-The data-sets have been collected from following website:
-
-<https://divvy-tripdata.s3.amazonaws.com/index.html>
-
-The data has been made available by Motivate International Inc. under this license:
-
-<https://ride.divvybikes.com/data-license-agreement>
-
-#### I have used the data from October 2021 to October 2022 for analysis.
-
 ## Tableau :
 
 Click here to access [Tableau Story](https://public.tableau.com/app/profile/gayatri.paul/viz/Cyclistic_Dashboard_16733809243250/Story1).
@@ -54,3 +41,15 @@ Libraries:
 Here is the complete [R code](https://github.com/GayatriPaul-DataAnalyst/Portfolio/blob/main/R%20Code%20for%20Cyclistic%20Data%20Analysis)
 
 Here is the [markdown](https://github.com/GayatriPaul-DataAnalyst/Portfolio/blob/main/Cyclistic%20Data%20Analysis%20-%20Yearly%20Overview.pdf) file for the entire code.
+
+### Data Source & License:
+
+The data-sets have been collected from following website:
+
+<https://divvy-tripdata.s3.amazonaws.com/index.html>
+
+The data has been made available by Motivate International Inc. under this license:
+
+<https://ride.divvybikes.com/data-license-agreement>
+
+#### I have used the data from October 2021 to October 2022 for analysis.
