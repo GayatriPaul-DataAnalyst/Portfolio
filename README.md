@@ -53,3 +53,15 @@ The data has been made available by Motivate International Inc. under this licen
 <https://ride.divvybikes.com/data-license-agreement>
 
 #### I have used the data from October 2021 to October 2022 for analysis.
+
+# Project 2: Here are a few dashboards created in PowerBI.
+
+:white_check_mark: [Maven-Market-Dashboard](https://github.com/GayatriPaul-DataAnalyst/Portfolio/blob/main/Maven%20Market%20Dashboard.pdf)
+
+<img src="https://github.com/GayatriPaul-DataAnalyst/Portfolio/blob/main/Maven%20Market.png" width="750" height="500">
+
+:white_check_mark: [Adventure-Works-Cycles-Dashboards](https://github.com/GayatriPaul-DataAnalyst/Portfolio/blob/main/Adventure%20Works%20Cycles%20Dashboards.pdf)
+
+<img src="https://github.com/GayatriPaul-DataAnalyst/Portfolio/blob/main/Adventure%20Works%20Cycles%202.png" width="750" height="500">
+
+The data in both the dashboards has been made available by Maven Analytics. 
