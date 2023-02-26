@@ -54,14 +54,20 @@ The data has been made available by Motivate International Inc. under this licen
 
 #### I have used the data from October 2021 to October 2022 for analysis.
 
+
+
 # Project 2: Here are a few dashboards created in PowerBI.
 
-:white_check_mark: [Maven-Market-Dashboard](https://github.com/GayatriPaul-DataAnalyst/Portfolio/blob/main/Maven%20Market%20Dashboard.pdf)
+## Maven Market Dashboard:
 
 <img src="https://github.com/GayatriPaul-DataAnalyst/Portfolio/blob/main/Maven%20Market.png" width="750" height="500">
 
-:white_check_mark: [Adventure-Works-Cycles-Dashboards](https://github.com/GayatriPaul-DataAnalyst/Portfolio/blob/main/Adventure%20Works%20Cycles%20Dashboards.pdf)
+:white_check_mark: [Click here for the complete report](https://github.com/GayatriPaul-DataAnalyst/Portfolio/blob/main/Maven%20Market%20Dashboard.pdf)
+
+## Adventure Works Cycles Dashboard:
 
 <img src="https://github.com/GayatriPaul-DataAnalyst/Portfolio/blob/main/Adventure%20Works%20Cycles%202.png" width="750" height="500">
+
+:white_check_mark: [Click here for the complete report](https://github.com/GayatriPaul-DataAnalyst/Portfolio/blob/main/Adventure%20Works%20Cycles%20Dashboards.pdf)
 
 The data in both the dashboards has been made available by Maven Analytics. 
